@@ -14,11 +14,10 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <a href="https://github.com/HenriqueBordonale">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBordonale&layout=compact&langs_count=7&theme=dracula" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueBordonale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </a>
+<div style="width: 200px;">
+<a href="https://github.com/HenriqueBordonale/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBordonale&langs_count=8" alt="Top Langs" />
+</a>
 </div>
 
 ---
