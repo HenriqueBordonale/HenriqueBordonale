@@ -28,11 +28,11 @@
 
 ---
 
-<div align="center">
- <img height="150em" src="https://camo.githubusercontent.com/e3d113783117493877b44b151ede78926a4b9780666f9f72e445454dbb9c4294/68747470733a2f2f6769746875622d726561646d652d73746174732d74656e2d67696c742e76657263656c2e6170702f6170693f757365726e616d653d4a6f616f686e7432372673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats-ten-gilt.vercel.app/api?username=HenriqueBordonalet27&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true" style="max-width: 100%;">
-  
-  <br><br>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBordonale&layout=compact&langs_count=7" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueBordonalet27&show_icons=true&theme=tokyonight&count_private=true)
+  
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBordonalet27&layout=compact&langs_count=7&theme=tokyonight"/>
+
+
+
 
