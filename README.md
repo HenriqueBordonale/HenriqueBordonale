@@ -28,6 +28,7 @@
 
 ---
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HenriqueBordonalet27&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBordonalet27&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HenriqueBordonale27&show_icons=true&theme=tokyonight&count_private=true"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueBordonale&show_icons=true&theme=radical)
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBordonale27&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
