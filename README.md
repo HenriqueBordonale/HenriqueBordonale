@@ -3,7 +3,6 @@
 ---
 
 ## 🚀 Sobre mim
-
 - 🎓 Formado em Engenharia de Software pela UNAERP
 - 💼 Trabalhando como Analista de Sistemas na UNAERP
 - 💻 Foco em desenvolvimento web full stack e automação de rotinas
@@ -25,15 +24,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </div>
-
----
----
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=HenriqueBordonale&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBordonale&layout=compact&theme=radical" />
-  </a>
-</p>
